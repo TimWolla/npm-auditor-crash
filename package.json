@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-clipboard": "^41.3.0"
+  }
+}
